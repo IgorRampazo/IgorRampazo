@@ -6,4 +6,10 @@
   <img height="200" src="https://media.tenor.com/m_OJyWuFsQ0AAAAM/akashi-seijuro.gif"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff3083&section=footer"/>
