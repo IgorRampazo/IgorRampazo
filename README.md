@@ -8,4 +8,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorRampazo&bg_color=00000000&color=ff3083&line=ff3083&point=cccccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![snake animation](https://github.com/IgorRampazo/IgorRampazo/blob/output/github-contribution-grid-snake2.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff3083&section=footer"/>
