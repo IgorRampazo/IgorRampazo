@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff4f78&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9B124D&section=header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Valorant&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Igor;I'm+a+web+developer;I'm+a+web+designer" alt="Typing SVG" /></a>
 
@@ -24,4 +24,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff4f78&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9B124D&section=footer"/>
