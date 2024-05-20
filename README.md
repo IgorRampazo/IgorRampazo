@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff3083&section=header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Valorant&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Igor;I'm+a+web+developer;I'm+a+web+designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;My+name+is+Igor+Rampazo;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/m_OJyWuFsQ0AAAAM/akashi-seijuro.gif"  />
