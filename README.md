@@ -10,5 +10,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{IgorRampazo}/count.svg)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=Kumara2mahe%2FViews-Counter)
+![Visitor Count](https://profile-counter.glitch.me/{IgorRampazo}/count.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff3083&section=footer"/>
