@@ -29,7 +29,7 @@
 <!-- Idiomas -->
 ### Languages:
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
-<br>
+<br><br>
 
 <!-- Redes -->
 <div align="center"> 
@@ -37,7 +37,7 @@
   <a href = "igorrampazo7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-fernando-805a752ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>  
 </div>
-
+<br>
 
 <!-- Gráfico de Atividade -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorRampazo&bg_color=00000000&color=ff3083&line=ff3083&point=cccccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
