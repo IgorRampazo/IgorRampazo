@@ -44,7 +44,10 @@
 <br><br><br>
 
 <!-- Contador de Visitantes -->
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/IgorRampazo&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/IgorRampazo&s=38&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
+  <img align="center-right" alt="pic" height="180" style="border-radius:80px;" src="https://i.pinimg.com/originals/b9/44/e0/b944e02ad1bdc4607b37888869b4e11d.gif?width=676&height=676&border-radius=100px">
+</div>
 <br>
 
 <!-- Rodapé -->
