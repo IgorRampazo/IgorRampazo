@@ -2,6 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ff3083&section=header"/>
 <br>
 
+<!-- Percent Skills -->
+
 <!-- Efeito de digito -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;My+name+is+Igor+Rampazo;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
 
