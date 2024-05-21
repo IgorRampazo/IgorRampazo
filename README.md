@@ -2,10 +2,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ff3083&section=header"/>
 <br>
 
-<!-- Percent Skills -->
-
 <!-- Efeito de digito -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;My+name+is+Igor+Rampazo;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
+
+<!-- Percent Skills -->
+![IgorRampazo's Stats](https://github-readme-stats.vercel.app/api?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&count_private=true)
+![IgorRampazo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true)
+![IgorRampazo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&layout=compact)
+
 
 <!-- Gif Personagem -->
 <div align="center">
