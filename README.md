@@ -11,6 +11,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&layout=compact" alt="IgorRampazo's Top Languages" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true" alt="IgorRampazo's Streak" />
 </div>
+<br><br>
 
 <!-- Gif Personagem -->
 <div align="center">
