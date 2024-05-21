@@ -6,10 +6,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;My+name+is+Igor+Rampazo;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
 
 <!-- Percent Skills -->
-![IgorRampazo's Stats](https://github-readme-stats.vercel.app/api?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&count_private=true)
-![IgorRampazo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true)
-![IgorRampazo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&layout=compact)
-
+<div style="width: 100%; display: flex; gap: 10px; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="IgorRampazo's Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&layout=compact" alt="IgorRampazo's Top Languages" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true" alt="IgorRampazo's Streak" />
+</div>
 
 <!-- Gif Personagem -->
 <div align="center">
