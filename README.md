@@ -4,18 +4,17 @@
 <!-- Efeito de digito -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
 <br><br>
+<!-- Gif Personagem -->
+<div align="center">
+  <img height="200" src="https://media.tenor.com/m_OJyWuFsQ0AAAAM/akashi-seijuro.gif"  />
+</div>
+<br><br>
 
 <!-- Percent Skills -->
 <div style="width: 100%; display: flex; gap: 10px; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="IgorRampazo's Stats" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&layout=compact" alt="IgorRampazo's Top Languages" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true" alt="IgorRampazo's Streak" />
-</div>
-<br><br>
-
-<!-- Gif Personagem -->
-<div align="center">
-  <img height="200" src="https://media.tenor.com/m_OJyWuFsQ0AAAAM/akashi-seijuro.gif"  />
 </div>
 
 ### Main skills:
