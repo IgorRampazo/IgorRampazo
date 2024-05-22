@@ -5,6 +5,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
 <br><br>
 
+![IgorRampazo's Stats](https://github-readme-stats.vercel.app/api?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&count_private=true)
+![IgorRampazo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true)
+
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
