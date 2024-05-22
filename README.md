@@ -8,6 +8,9 @@
 ![IgorRampazo's Stats](https://github-readme-stats.vercel.app/api?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&count_private=true)
 ![IgorRampazo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
