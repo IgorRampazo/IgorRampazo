@@ -4,18 +4,19 @@
 <!-- Efeito de digito -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
 <br><br>
-<!-- Gif Personagem -->
-<div align="center">
-  <img height="200" src="https://media.tenor.com/m_OJyWuFsQ0AAAAM/akashi-seijuro.gif"  />
-</div>
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
 <br><br>
 
-<!-- Percent Skills -->
-<div style="width: 100%; display: flex; gap: 10px; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="IgorRampazo's Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&layout=compact" alt="IgorRampazo's Top Languages" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true" alt="IgorRampazo's Streak" />
-</div>
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -53,7 +54,7 @@
 <!-- Contador de Visitantes -->
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/IgorRampazo&s=38&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
-  <img align="center-right" alt="pic" height="180" style="border-radius:80px;" src="https://i.pinimg.com/originals/b9/44/e0/b944e02ad1bdc4607b37888869b4e11d.gif?width=676&height=676&border-radius=100px">
+  <img align="center-right" alt="pic" height="180" style="border-radius:100px;" src="https://i.pinimg.com/originals/b9/44/e0/b944e02ad1bdc4607b37888869b4e11d.gif?width=676&height=676&border-radius=100px">
 </div>
 <br>
 
