@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde 2021<br>📚 Atualmente estou aprendendo Python e C<br>🎯 Metas: Contribuir para projetos de código aberto, aprimorar minhas habilidades em Python e C, e desenvolver aplicativos web inovadores.<br>🎲 Curiosidade divertida: Adoro explorar novas tecnologias e encontrar soluções criativas para problemas de programação.</p>
 
 <br><br>
 
