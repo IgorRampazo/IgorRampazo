@@ -5,11 +5,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
 <br><br>
 
-![IgorRampazo's Stats](https://github-readme-stats.vercel.app/api?username=IgorRampazo&theme=bear&show_icons=true&hide_border=true&count_private=true)
-![IgorRampazo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorRampazo&theme=bear&hide_border=true)
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div style="display: flex; justify-content: center; width: 1000px;">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="padding: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&bg_color=00000000&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;">
+      </td>
+      <td style="padding: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&hide_progress=true&bg_color=00000000&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Top Langs" style="border: 1px solid #ff3083; display: block;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
@@ -55,14 +62,14 @@
 
 <!-- Gráfico de Atividade -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorRampazo&bg_color=00000000&color=ff3083&line=ff3083&point=cccccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br><br><br>
+<br><br>
 
 <!-- Contador de Visitantes -->
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/IgorRampazo&s=38&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
   <img align="center-right" alt="pic" height="180" style="border-radius:100px;" src="https://i.pinimg.com/originals/b9/44/e0/b944e02ad1bdc4607b37888869b4e11d.gif?width=676&height=676&border-radius=100px">
 </div>
-<br>
+<br><br>
 
 <!-- Rodapé -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ff3083&section=footer"/>
