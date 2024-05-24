@@ -9,66 +9,28 @@
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&bg_color=00000000&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&card_width=500px&bg_color=00000000&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;">
       </td>
       <td style="padding: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&hide_progress=true&bg_color=00000000&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Top Langs" style="border: 1px solid #ff3083; display: block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&hide_progress=true&card_width=500px&bg_color=00000000&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Top Langs" style="border: 1px solid #ff3083; display: block;">
       </td>
     </tr>
   </table>
 </div>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<br><br>
+
+<!-- -------------------------------- -->
+<!--            About me              -->
+<!-- -------------------------------- -->
+
+<h2 align="left">Hi 👋! My name is Igor</h2>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-<!-- Educação -->
-<details closed>
-  <summary><strong>🎓 Educação</strong></summary><br>
-  <table>
-    <tr>
-      <td>
-        <b>Ciência da Computação</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        Estou cursando Ciência da Computação na Unoeste, com previsão de conclusão para 2027.
-      </td>
-    </tr>
-  </table>
-</details>
-
-<!-- Habilidades Técnicas -->
-<details closed>
-  <summary><strong>💻 Habilidades Técnicas</strong></summary><br>
-  <table>
-    <tr>
-      <td>
-        <b>Linguagens de Programação:</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        HTML, CSS, JavaScript, PHP, MySQL, jQuery, C, Python
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Tecnologias e Ferramentas:</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        Figma, GitHub, Git, Bootstrap
-      </td>
-    </tr>
-  </table>
-</details>
 
 <!-- Informações Pessoais -->
 <details closed>
@@ -102,6 +64,78 @@
     <tr>
       <td align="center">
         Presidente Prudente e Região, SP, Brasil
+      </td>
+    </tr>
+  </table>
+</details>
+<!-- Educação -->
+<details closed>
+  <summary><strong>🎓 Educação</strong></summary><br>
+  <table>
+    <tr>
+      <td>
+        <b>Ciência da Computação</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Estou cursando Ciência da Computação na Unoeste, com previsão de conclusão para 2027.
+      </td>
+    </tr>
+  </table>
+</details>
+<!-- Habilidades Técnicas -->
+<details closed>
+  <summary><strong>💻 Habilidades Técnicas</strong></summary><br>
+  <table>
+    <tr>
+      <td>
+        <b>Tecnologias e Ferramentas:</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        HTML, CSS, JavaScript, PHP, MySQL, jQuery, Figma, GitHub, Git, Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Estudando Atualmente:</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        C, Python
+      </td>
+    </tr>
+  </table>
+</details>
+<!-- Objetivos -->
+<details closed>
+  <summary><strong>🎯 Objetivos e Metas</strong></summary><br>
+  <table>
+    <tr>
+      <td><b>Software Engineer</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Me aprimorar como programador versátil e competente, contribuindo para projetos de código aberto. Melhorar minhas habilidades, e desenvolver soluções inovadoras em diferentes áreas da programação.
+      </td>
+    </tr>
+  </table>
+</details>
+<!-- Curiosidade -->
+<details closed>
+  <summary><strong>🎲 Curiosidade</strong></summary><br>
+  <table>
+    <tr>
+      <td><b>?</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Adoro explorar novas tecnologias e encontrar soluções criativas para problemas de programação.
       </td>
     </tr>
   </table>
