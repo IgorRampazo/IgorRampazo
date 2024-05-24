@@ -26,7 +26,86 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2021<br>📚 Atualmente estou aprendendo Python e C<br>🎯 Metas: Contribuir para projetos de código aberto, aprimorar minhas habilidades em Python e C, e desenvolver aplicativos web inovadores.<br>🎲 Curiosidade divertida: Adoro explorar novas tecnologias e encontrar soluções criativas para problemas de programação.</p>
+<!-- Educação -->
+<details closed>
+  <summary><strong>🎓 Educação</strong></summary><br>
+  <table>
+    <tr>
+      <td>
+        <b>Ciência da Computação</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Estou cursando Ciência da Computação na Unoeste, com previsão de conclusão para 2027.
+      </td>
+    </tr>
+  </table>
+</details>
+
+<!-- Habilidades Técnicas -->
+<details closed>
+  <summary><strong>💻 Habilidades Técnicas</strong></summary><br>
+  <table>
+    <tr>
+      <td>
+        <b>Linguagens de Programação:</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        HTML, CSS, JavaScript, PHP, MySQL, jQuery, C, Python
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Tecnologias e Ferramentas:</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Figma, GitHub, Git, Bootstrap
+      </td>
+    </tr>
+  </table>
+</details>
+
+<!-- Informações Pessoais -->
+<details closed>
+  <summary><strong>👤 Informações Pessoais</strong></summary><br>
+  <table>
+    <tr>
+      <td>
+        <b>Nome:</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Igor Fernando Melo Rampazo
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Idade:</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        18 anos
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Localização:</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Presidente Prudente e Região, SP, Brasil
+      </td>
+    </tr>
+  </table>
+</details>
 
 <br><br>
 
