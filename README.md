@@ -5,13 +5,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer;I'm+Web+Design" alt="Typing SVG" /></a>
 <br><br>
 
+
 <!-- -------------------------------- -->
 <!--             Status               -->
 <!-- -------------------------------- -->
-## Principais Linguagens
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&bg_color=00000000&border_color=ff3083&text_color=cccccc&title_color=ff3083)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <div style="display: flex; justify-content: center; width: 1000px;">
   <table style="border-collapse: collapse;">
