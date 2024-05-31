@@ -19,30 +19,15 @@
       <td style="padding: 0 10px;">
         <img width="412px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="border: 1px solid #ff3083; display: block;">
       </td>
-    </tr>
-  </table>
-</div>
-<div style="display: flex; justify-content: center; width: 1000px;">
-  <table style="border-collapse: collapse;">
-    <tr>
       <td style="padding: 0 10px;">
-        <img width="500px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;">
-      </td>
-      <td style="padding: 0 10px;">
-        <img width="412px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="border: 1px solid #ff3083; display: block;">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; padding-top: 10px;">
-        <a href="https://git.io/streak-stats">
-          <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=180&background=FF308305&border=FF3083&fire=FF3083&dates=CCCCCC&currStreakLabel=CCCCCC&ring=FF308383" alt="GitHub Streak" style="border: 1px solid #ff3083; display: block;">
-        </a>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=180&background=FF308305&border=FF3083&fire=FF3083&dates=CCCCCC&currStreakLabel=CCCCCC&ring=FF308383" alt="GitHub Streak" style="border: 1px solid #ff3083; display: block; background-color: #ff308305;">
       </td>
     </tr>
   </table>
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=180&background=FF308305&border=FF3083&fire=FF3083&dates=CCCCCC&currStreakLabel=CCCCCC&ring=FF308383)](https://git.io/streak-stats)
+
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3> -->
 <br><br>
 
