@@ -23,6 +23,7 @@
   </table>
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=180&background=FF308305&border=FF3083&fire=FF3083&dates=CCCCCC&currStreakLabel=CCCCCC&ring=FF308383)](https://git.io/streak-stats)
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3> -->
 <br><br>
 
