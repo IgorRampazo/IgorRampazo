@@ -8,7 +8,7 @@
 <!-- -------------------------------- -->
 <!--             Status               -->
 <!-- -------------------------------- -->
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&hide_border=true&langs_count=8&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
+
 <div style="display: flex; justify-content: center; width: 1000px;">
   <table style="border-collapse: collapse;">
     <tr>
@@ -16,7 +16,7 @@
         <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;">
       </td>
       <td style="padding: 0 10px;">
-        <img width="382px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="border: 1px solid #ff3083; display: block;">
+        <img width="382px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=8&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="border: 1px solid #ff3083; display: block;">
       </td>
     </tr>
   </table>
