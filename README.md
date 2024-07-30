@@ -13,7 +13,8 @@
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 0 10px;">
-        <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;">
+        <!-- <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;"> -->
+        <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Anurag's GitHub stats" style="border: 1px solid #ff3083; display: block;">
       </td>
       <td style="padding: 0 10px;">
         <img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="border: 1px solid #ff3083; display: block;">
@@ -29,6 +30,7 @@
   </table>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorRampazo\&rank_icon=github)
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3> -->
 <br><br>
 
