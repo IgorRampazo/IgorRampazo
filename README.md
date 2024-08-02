@@ -136,7 +136,7 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>🛠️ Main Skill Set:</h3>
+      ### 🛠️ Main Skill Set:
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />&nbsp;
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;
@@ -149,7 +149,7 @@
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
     </td>
     <td valign="top" width="33%">
-      <h3>🎒 Studying in this moment:</h3>
+      ### 🎒 Studying in this moment:
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />&nbsp;
