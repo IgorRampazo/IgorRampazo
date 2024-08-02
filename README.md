@@ -134,7 +134,7 @@
 <h2 align="left">🧑🏼‍💻 Recent Projects</h2>
 
 <ul>
-  <li><a href="[https://teste.com.br](https://github.com/IgorRampazo/Data-Analytics-Projects/tree/main/(Insights)%20-%20Case%20-%20Cancelamento%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito)">(Insights) - Case - Cancelamento de Cartão de Crédito</a></li>
+  <li><a href="https://github.com/IgorRampazo/Data-Analytics-Projects/tree/main/(Insights)%20-%20Case%20-%20Cancelamento%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito">(Insights) - Case - Cancelamento de Cartão de Crédito</a></li>
 </ul>
 
 <br><br>
