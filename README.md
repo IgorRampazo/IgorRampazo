@@ -110,13 +110,10 @@
   <summary><strong>🎯 Objetivos e Metas</strong></summary><br>
   <table>
     <tr>
-      <td><b>Software Engineer</b><br>
-      </td>
+      <td><b>Software Engineer</b><br></td>
     </tr>
     <tr>
-      <td align="center">
-        Me aprimorar como programador versátil e competente, contribuindo para projetos de código aberto. Melhorar minhas habilidades, e desenvolver soluções inovadoras em diferentes áreas da programação.
-      </td>
+      <td align="center">Me aprimorar como programador versátil e competente, contribuindo para projetos de código aberto. Melhorar minhas habilidades, e desenvolver soluções inovadoras em diferentes áreas da programação.</td>
     </tr>
   </table>
 </details>
@@ -129,9 +126,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        Adoro explorar novas tecnologias e encontrar soluções criativas para problemas de programação.
-      </td>
+      <td align="center">Adoro explorar novas tecnologias e encontrar soluções criativas para problemas de programação.</td>
     </tr>
   </table>
 </details>
@@ -153,13 +148,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-### Studying in this moment:
+<p align="left">Studying in this moment:</p>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
 
-<!-- Idiomas -->
-### Languages:
+<p align="left">Languages:</p>
+
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
 <br><br>
 
