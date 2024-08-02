@@ -37,10 +37,6 @@
 <!--            About me              -->
 <!-- -------------------------------- -->
 
-<h2 align="left">Hi 👋! My name is Igor</h2>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
