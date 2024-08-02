@@ -30,6 +30,8 @@
   </table>
 </div>
 
+
+<img width="50" src="https://github.com/user-attachments/assets/2d2ab6c3-300b-4bb5-b4d3-f09ca6977b57">
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3> -->
 <br><br>
 
