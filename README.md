@@ -55,29 +55,19 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        Igor Fernando Melo Rampazo
-      </td>
+      <td align="center">Igor Fernando Melo Rampazo</td>
     </tr>
     <tr>
-      <td>
-        <b>Idade:</b><br>
-      </td>
+      <td><b>Idade:</b><br></td>
     </tr>
     <tr>
-      <td align="center">
-        18 anos
-      </td>
+      <td align="center">18 anos</td>
     </tr>
     <tr>
-      <td>
-        <b>Localização:</b><br>
-      </td>
+      <td><b>Localização:</b><br></td>
     </tr>
     <tr>
-      <td align="center">
-        Presidente Prudente e Região, SP, Brasil
-      </td>
+      <td align="center">Presidente Prudente e Região, SP, Brasil</td>
     </tr>
   </table>
 </details>
@@ -86,14 +76,10 @@
   <summary><strong>🎓 Educação</strong></summary><br>
   <table>
     <tr>
-      <td>
-        <b>Ciência da Computação</b><br>
-      </td>
+      <td><b>Ciência da Computação</b><br></td>
     </tr>
     <tr>
-      <td align="center">
-        Estou cursando Ciência da Computação na Unoeste, com previsão de conclusão para 2027.
-      </td>
+      <td align="center">Estou cursando Ciência da Computação na Unoeste, com previsão de conclusão para 2027.</td>
     </tr>
   </table>
 </details>
@@ -157,7 +143,8 @@
 <br><br>
 
 
-### <img width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"> **Main skills:**
+
+<h2 align="left">🛠️ Main skills:</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
