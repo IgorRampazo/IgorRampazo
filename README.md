@@ -133,8 +133,6 @@
 
 <br><br>
 
-<h2 align="left">🛠️ Main skills:</h2>
-
 <table>
   <tr>
     <td valign="top" width="33%">
