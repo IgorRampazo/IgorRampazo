@@ -44,88 +44,51 @@
   <summary><strong>👤 Informações Pessoais</strong></summary><br>
   <table>
     <tr>
-      <td>
-        <b>Nome:</b><br>
-      </td>
-    </tr>
-    <tr>
+      <td><b>Nome:</b></td>
       <td align="center">Igor Fernando Melo Rampazo</td>
-    </tr>
-    <tr>
-      <td><b>Idade:</b><br></td>
-    </tr>
-    <tr>
-      <td align="center">18 anos</td>
-    </tr>
-    <tr>
-      <td><b>Localização:</b><br></td>
-    </tr>
-    <tr>
-      <td align="center">Presidente Prudente e Região, SP, Brasil</td>
-    </tr>
+   </tr>
+    <tr><td><b>Idade:</b><br></td></tr>
+    <tr><td align="center">18 anos</td></tr>
+    <tr><td><b>Localização:</b><br></td></tr>
+    <tr><td align="center">Presidente Prudente e Região, SP, Brasil</td></tr>
   </table>
 </details>
+
 <!-- Educação -->
 <details closed>
   <summary><strong>🎓 Educação</strong></summary><br>
   <table>
-    <tr>
-      <td><b>Ciência da Computação</b><br></td>
-    </tr>
-    <tr>
-      <td align="center">Estou cursando Ciência da Computação na Unoeste, com previsão de conclusão para 2027.</td>
-    </tr>
+    <tr><td><b>Ciência da Computação</b><br></td></tr>
+    <tr><td align="center">Estou cursando Ciência da Computação na Unoeste, com previsão de conclusão para 2027.</td></tr>
   </table>
 </details>
+
 <!-- Habilidades Técnicas -->
 <details closed>
   <summary><strong>💻 Habilidades Técnicas</strong></summary><br>
   <table>
-    <tr>
-      <td>
-        <b>Tecnologias e Ferramentas:</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        HTML, CSS, JavaScript, PHP, MySQL, jQuery, Figma, GitHub, Git, Bootstrap
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Estudando Atualmente:</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        C, Python
-      </td>
-    </tr>
+   <tr><td><b>Tecnologias e Ferramentas:</b><br></td></tr>
+   <tr><td align="center">HTML, CSS, JavaScript, PHP, MySQL, jQuery, Figma, GitHub, Git, Bootstrap</td></tr>
+   <tr><td><b>Estudando Atualmente:</b><br></td></tr>
+   <tr><td align="center">C, Python</td></tr>
   </table>
 </details>
+
 <!-- Objetivos -->
 <details closed>
   <summary><strong>🎯 Objetivos e Metas</strong></summary><br>
   <table>
-    <tr>
-      <td><b>Software Engineer</b><br></td>
-    </tr>
-    <tr>
-      <td align="center">Me aprimorar como programador versátil e competente, contribuindo para projetos de código aberto. Melhorar minhas habilidades, e desenvolver soluções inovadoras em diferentes áreas da programação.</td>
-    </tr>
+    <tr><td><b>Software Engineer</b></td></tr>
+    <tr><td align="center">Me aprimorar como programador versátil e competente, contribuindo para projetos de código aberto. Melhorar minhas habilidades, e desenvolver soluções inovadoras em diferentes áreas da programação.</td></tr>
   </table>
 </details>
+
 <!-- Curiosidade -->
 <details closed>
   <summary><strong>🎲 Curiosidade</strong></summary><br>
   <table>
-    <tr>
-      <td><b>?</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Adoro explorar novas tecnologias e encontrar soluções criativas para problemas de programação.</td>
-    </tr>
+    <tr><td><b>?</b></td></tr>
+    <tr><td align="center">Adoro explorar novas tecnologias e encontrar soluções criativas para problemas de programação.</td></tr>
   </table>
 </details>
 
