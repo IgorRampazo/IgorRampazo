@@ -9,13 +9,13 @@
 <!--             Status               -->
 <!-- -------------------------------- -->
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 1000px;">
+<div style="display: flex; flex-direction: row; align-items: center; width: 1000px;">
   <div style="display: flex; justify-content: center; width: 100%; margin-bottom: 10px;">
     <div>
-      <img width="40%" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="display: block;">
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="display: block;">
     </div>
     <div>
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&card_width=500px&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="display: block;">
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&card_width=500px&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="display: block;">
     </div>
   </div>
   <div style="display: flex; justify-content: center; width: 100%;">
