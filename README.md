@@ -9,14 +9,25 @@
 <!--             Status               -->
 <!-- -------------------------------- -->
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="width: 490px; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="width: 336px;">
-</div>
+<table style="border: none;">
+   <tr style="border: none;">
+      <td style="padding: 0 10px; border: none;">
+         <!-- <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;"> -->
+         <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Anurag's GitHub stats" style="border: 1px solid #ff3083; display: block;">
+      </td>
+      <td style="padding: 0 10px;">
+         <img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="border: 1px solid #ff3083; display: block;">
+      </td>
+   </tr>
+</table>
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=FF308305&border=FF3083&fire=FF3083&dates=CCCCCC&currStreakLabel=CCCCCC&ring=FF308383" alt="GitHub Streak" style="border: 1px solid #ff3083; display: block; background-color: #ff308305;">
-</div>
+<table>
+   <tr>
+   <td style="padding: 0 10px;">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=FF308305&border=FF3083&fire=FF3083&dates=CCCCCC&currStreakLabel=CCCCCC&ring=FF308383" alt="GitHub Streak" style="border: 1px solid #ff3083; display: block; background-color: #ff308305; font-size: 30rem;">
+   </td>
+   </tr>
+</table>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3> -->
 <br><br>
