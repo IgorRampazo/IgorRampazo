@@ -11,8 +11,8 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 10px;">
-    <img style="flex: 1 1 0; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats">
-    <img style="flex: 1 1 0; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages">
+    <img style="flex: 1 1 0; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats">
+    <img style="flex: 1 1 0; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages">
   </div>
   <div style="display: flex; justify-content: center; width: 100%;">
     <div style="padding: 0 10px; width: 100%;">
