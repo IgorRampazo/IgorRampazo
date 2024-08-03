@@ -5,9 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer" alt="Typing SVG" /></a>
 
 <br><br><br>
-
-<!-- -------------------------------- -->
-<!--             Status               -->
 <!-- -------------------------------- -->
 
 <table style="border: none;">
@@ -30,11 +27,7 @@
    </tr>
 </table>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3> -->
-<br><br>
-
-<!-- -------------------------------- -->
-<!--            About me              -->
+<br><br><br>
 <!-- -------------------------------- -->
 
 <h2 align="left">🙋🏻‍♂️ About me</h2>
@@ -43,19 +36,9 @@
 <details closed>
   <summary><strong>👤 Informações Pessoais</strong></summary><br>
   <table>
-    <tr>
-      <td><b>Nome:</b></td>
-      <td align="center">Igor Fernando Melo Rampazo</td>
-   </tr>
-   <tr>
-      <td><b>Idade:</b></td>
-      <td align="center">18 anos</td>
-   </tr>
-   <tr>
-   <td>
-      <b>Localização:</b><br></td>
-      <td align="center">Presidente Prudente e Região, SP, Brasil</td>
-   </tr>
+   <tr> <td><b>Nome:</b></td><td align="center">Igor Fernando Melo Rampazo</td></tr>
+   <tr> <td><b>Idade:</b></td><td align="center">18 anos</td> </tr>
+   <tr> <td><b>Localização:</b></td><td align="center">Presidente Prudente e Região, SP, Brasil</td></tr>
   </table>
 </details>
 
@@ -97,7 +80,8 @@
   </table>
 </details>
 
-<br><br>
+<br><br><br>
+<!-- -------------------------------- -->
 
 <h2 align="left">🧑🏼‍💻 Recent Projects</h2>
 
@@ -109,7 +93,8 @@
   <li>Python - Game Break Bricks (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Game%20Break%20Bricks">Acessar</a>)</li>
 </ul>
 
-<br><br>
+<br><br><br>
+<!-- -------------------------------- -->
 
 <table>
   <tr>
@@ -139,6 +124,7 @@
 </table>
 
 <br><br><br>
+<!-- -------------------------------- -->
 
 <!-- 🧑🏻‍💻 -->
 
