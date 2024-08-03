@@ -12,11 +12,11 @@
 <div style="display: flex; justify-content: center; width: 1000px;">
   <table style="border-collapse: collapse;">
     <tr>
-      <td style="padding: 0 8px;">
+      <td style="padding: 0 80px;">
         <!-- <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;"> -->
         <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Anurag's GitHub stats" style="border: 1px solid #ff3083; display: block;">
       </td>
-      <td style="padding: 0 8px;">
+      <td style="padding: 0 80px;">
         <img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="border: 1px solid #ff3083; display: block;">
       </td>
     </tr>
