@@ -10,7 +10,7 @@
 <!-- -------------------------------- -->
 
 <div style="margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="width: 485px; display: block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="width: 482px; display: block;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="width: 330px; display: block;">
 </div>
 <div style="display: flex; justify-content: center; width: 100%;">
