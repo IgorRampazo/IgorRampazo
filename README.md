@@ -47,10 +47,15 @@
       <td><b>Nome:</b></td>
       <td align="center">Igor Fernando Melo Rampazo</td>
    </tr>
-    <tr><td><b>Idade:</b><br></td></tr>
-    <tr><td align="center">18 anos</td></tr>
-    <tr><td><b>Localização:</b><br></td></tr>
-    <tr><td align="center">Presidente Prudente e Região, SP, Brasil</td></tr>
+   <tr>
+      <td><b>Idade:</b></td>
+      <td align="center">18 anos</td>
+   </tr>
+   <tr>
+   <td>
+      <b>Localização:</b><br></td>
+      <td align="center">Presidente Prudente e Região, SP, Brasil</td>
+   </tr>
   </table>
 </details>
 
