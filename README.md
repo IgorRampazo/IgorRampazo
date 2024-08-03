@@ -9,17 +9,17 @@
 <!--             Status               -->
 <!-- -------------------------------- -->
 
-<div style="display: flex; flex-direction: row; align-items: center; width: 100%; gap: 1rem;">
-  <div style="display: flex; justify-content: center; width: 100%; margin-bottom: 10px;">
-    <div>
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="display: block;">
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <div style="display: flex; justify-content: center; width: 100%; margin-bottom: 10px; gap: 1rem;">
+    <div style="width: 50%;">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="display: block;">
     </div>
-    <div>
-      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&card_width=500px&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="display: block;">
+    <div style="width: 50%;">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&card_width=500px&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="display: block;">
     </div>
   </div>
   <div style="display: flex; justify-content: center; width: 100%;">
-    <div style="padding: 0 10px;">
+    <div style="padding: 0 10px; width: 100%;">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=FF308305&border=FF3083&fire=FF3083&dates=CCCCCC&currStreakLabel=CCCCCC&ring=FF308383" alt="GitHub Streak" style="border: 1px solid #ff3083; display: block; background-color: #ff308305; font-size: 30rem;">
     </div>
   </div>
