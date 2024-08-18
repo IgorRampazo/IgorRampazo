@@ -51,8 +51,7 @@
   <li>Python - Game Break Bricks (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Game%20Break%20Bricks">Acessar</a>)</li>
 </ul>
 
-<br><br><br>
-<!-- -------------------------------- -->
+<br><br>
 
 <h2 align="left">🛠️ Main Skill Set:</h2>
 
@@ -73,7 +72,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=239120)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
 
-<br>
+<br><br>
 
 <h2 align="left">🎒 Currently studying:</h2>
 
