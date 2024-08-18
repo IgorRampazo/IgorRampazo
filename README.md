@@ -32,56 +32,14 @@
 
 <h2 align="left">🙋🏻‍♂️ About me</h2>
 
-<!-- Informações Pessoais -->
-<details closed>
-  <summary><strong>👤 Informações Pessoais</strong></summary><br>
-  <table>
-   <tr> <td><b>Nome:</b></td><td align="center">Igor Fernando Melo Rampazo</td></tr>
-   <tr> <td><b>Idade:</b></td><td align="center">18 anos</td> </tr>
-   <tr> <td><b>Localização:</b></td><td align="center">Presidente Prudente e Região, SP, Brasil</td></tr>
-  </table>
-</details>
+<ul>
+  <li>👤 Informações Pessoais: Igor Fernando Melo Rampazo, 18 anos, Presidente Prudente e Região, SP, Brasil.</li>
+  <li>🎓 Educação: Estudante de Ciência da Computação na Unoeste, conclusão em 2027.</li>
+  <li>💻 Habilidades Técnicas: Tecnologias: HTML, CSS, JavaScript, PHP, MySQL, jQuery, Figma, GitHub, Git, Bootstrap. Estudando: C, Python.</li>
+  <li>🎯 Objetivos: Aperfeiçoar habilidades em programação, contribuir para projetos open source, e desenvolver soluções inovadoras.</li>
+</ul>
 
-<!-- Educação -->
-<details closed>
-  <summary><strong>🎓 Educação</strong></summary><br>
-  <table>
-    <tr><td><b>Ciência da Computação</b><br></td></tr>
-    <tr><td align="center">Estou cursando Ciência da Computação na Unoeste, com previsão de conclusão para 2027.</td></tr>
-  </table>
-</details>
-
-<!-- Habilidades Técnicas -->
-<details closed>
-  <summary><strong>💻 Habilidades Técnicas</strong></summary><br>
-  <table>
-   <tr><td><b>Tecnologias e Ferramentas:</b><br></td></tr>
-   <tr><td align="center">HTML, CSS, JavaScript, PHP, MySQL, jQuery, Figma, GitHub, Git, Bootstrap</td></tr>
-   <tr><td><b>Estudando Atualmente:</b><br></td></tr>
-   <tr><td align="center">C, Python</td></tr>
-  </table>
-</details>
-
-<!-- Objetivos -->
-<details closed>
-  <summary><strong>🎯 Objetivos e Metas</strong></summary><br>
-  <table>
-    <tr><td><b>Software Engineer</b></td></tr>
-    <tr><td align="center">Me aprimorar como programador versátil e competente, contribuindo para projetos de código aberto. Melhorar minhas habilidades, e desenvolver soluções inovadoras em diferentes áreas da programação.</td></tr>
-  </table>
-</details>
-
-<!-- Curiosidade -->
-<details closed>
-  <summary><strong>🎲 Curiosidade</strong></summary><br>
-  <table>
-    <tr><td><b>?</b></td></tr>
-    <tr><td align="center">Adoro explorar novas tecnologias e encontrar soluções criativas para problemas de programação.</td></tr>
-  </table>
-</details>
-
-<br><br><br>
-<!-- -------------------------------- -->
+<br><br>
 
 <h2 align="left">🧑🏼‍💻 Recent Projects</h2>
 
