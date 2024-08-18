@@ -41,18 +41,6 @@
 
 <br><br>
 
-<h2 align="left">🧑🏼‍💻 Recent Projects</h2>
-
-<ul>
-  <li>calculator (<a target="_blank" href="https://github.com/IgorRampazo/Web-Projects/tree/main/calculator">Acessar</a>)</li>
-  <li>(Insights) - Case - Cancelamento de Cartão de Crédito (<a target="_blank" href="https://github.com/IgorRampazo/Data-Analytics-Projects/tree/main/(Insights)%20-%20Case%20-%20Cancelamento%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito">Acessar</a>)</li>
-  <li>Python Automation - Relatório Semanal Consolidado de Vendas (<a target="_blank" href="https://github.com/IgorRampazo/Automations/tree/main/Python%20Automation%20-%20Relat%C3%B3rio%20Semanal%20Consolidado%20de%20Vendas">Acessar</a>)</li>
-  <li>Python - Flappy Bird (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Flappy%20Bird">Acessar</a>)</li>
-  <li>Python - Game Break Bricks (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Game%20Break%20Bricks">Acessar</a>)</li>
-</ul>
-
-<br><br>
-
 <h2 align="left">🛠️ Main Skill Set:</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -79,8 +67,19 @@
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3670A0)
 
-<br><br><br>
-<!-- -------------------------------- -->
+<br><br>
+
+<h2 align="left">🧑🏼‍💻 Recent Projects</h2>
+
+<ul>
+  <li>calculator (<a target="_blank" href="https://github.com/IgorRampazo/Web-Projects/tree/main/calculator">Acessar</a>)</li>
+  <li>(Insights) - Case - Cancelamento de Cartão de Crédito (<a target="_blank" href="https://github.com/IgorRampazo/Data-Analytics-Projects/tree/main/(Insights)%20-%20Case%20-%20Cancelamento%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito">Acessar</a>)</li>
+  <li>Python Automation - Relatório Semanal Consolidado de Vendas (<a target="_blank" href="https://github.com/IgorRampazo/Automations/tree/main/Python%20Automation%20-%20Relat%C3%B3rio%20Semanal%20Consolidado%20de%20Vendas">Acessar</a>)</li>
+  <li>Python - Flappy Bird (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Flappy%20Bird">Acessar</a>)</li>
+  <li>Python - Game Break Bricks (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Game%20Break%20Bricks">Acessar</a>)</li>
+</ul>
+
+<br><br>
 
 <!-- 🧑🏻‍💻 -->
 
