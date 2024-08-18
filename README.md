@@ -96,7 +96,7 @@
 <br><br><br>
 <!-- -------------------------------- -->
 
-### 🛠️ Main Skill Set:
+<h2 align="left">🛠️ Main Skill Set:</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -117,7 +117,7 @@
 
 <br>
 
-### 🎒 Currently studying:</p>
+<h2 align="left">🎒 Currently studying:</h2>
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3670A0)
