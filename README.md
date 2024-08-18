@@ -35,7 +35,7 @@
 <ul>
   <li>👤 Informações Pessoais: Igor Fernando Melo Rampazo, 18 anos, Presidente Prudente e Região, SP, Brasil.</li>
   <li>🎓 Educação: Estudante de Ciência da Computação na Unoeste, conclusão em 2027.</li>
-  <li>💻 Habilidades Técnicas: Tecnologias: HTML, CSS, JavaScript, PHP, MySQL, jQuery, Figma, GitHub, Git, Bootstrap. Estudando: C, Python.</li>
+  <li>💻 Linguagens e Tecnologias: HTML, CSS, JavaScript, PHP, MySQL, jQuery, etc... Estudando: C, Python.</li>
   <li>🎯 Objetivos: Aperfeiçoar habilidades em programação, contribuir para projetos open source, e desenvolver soluções inovadoras.</li>
 </ul>
 
