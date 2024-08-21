@@ -14,7 +14,7 @@
       </td>
       <td>
          <h1>Sobre mim</h1>
-         Sou um desenvolvedor com experiência em desenvolvimento web, análise de dados e automação, tendo iniciado minha carreira como estagiário em desenvolvimento web. Atualmente, estou cursando Ciência da Computação, e busco expandir constantemente meu conhecimento e aplicar tecnologias de ponta, com foco em soluções práticas e inovadoras que entregam produtos de alta qualidade e valor para os usuários.
+         Sou um desenvolvedor com experiência em desenvolvimento web, análise de dados e automação, tendo iniciado minha carreira como estagiário em desenvolvimento web. Atualmente, estou cursando Ciência da Computação, e busco expandir constantemente meu conhecimento e aplicar tecnologias de ponta, com foco em soluções práticas e inovadoras.
       </td>
    </tr>
 </table>
