@@ -45,17 +45,6 @@
 <br><br><br>
 <!-- -------------------------------- -->
 
-<h2 align="left">🙋🏻‍♂️ About me</h2>
-
-<ul>
-  <li>👤 Informações Pessoais: Igor Fernando Melo Rampazo, 18 anos, Presidente Prudente e Região, SP, Brasil.</li>
-  <li>🎓 Educação: Estudante de Ciência da Computação na Unoeste, conclusão em 2027.</li>
-  <li>💻 Linguagens e Tecnologias: HTML, CSS, JavaScript, PHP, MySQL, jQuery, etc... Estudando: C, Python.</li>
-  <li>🎯 Objetivos: Aperfeiçoar habilidades em programação, contribuir para projetos open source, e desenvolver soluções inovadoras.</li>
-</ul>
-
-<br><br>
-
 <h2 align="left">🛠️ Main Skill Set:</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
