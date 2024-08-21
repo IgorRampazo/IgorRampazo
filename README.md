@@ -7,6 +7,21 @@
 <br><br><br>
 <!-- -------------------------------- -->
 
+<table style="border: 1px solid red">
+   <tr>
+      <td>
+         <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat" />
+      </td>
+      <td>
+         <h1>Sobre mim</h1>
+         Sou um desenvolvedor com experiência em desenvolvimento web, análise de dados e automação, tendo iniciado minha carreira como estagiário em desenvolvimento web. Busco constantemente expandir meu conhecimento e aplicar tecnologias de ponta, com foco em soluções práticas e inovadoras que entreguem produtos de alta qualidade e valor para os usuários.
+      </td>
+   </tr>
+</table>
+
+<!-- -------------------------------- -->
+<br><br><br>
+
 <table style="border: none;">
    <tr style="border: none;">
       <td style="padding: 0 10px; border: none;">
