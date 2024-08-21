@@ -4,8 +4,12 @@
 <!-- Efeito de digito -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+18+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer" alt="Typing SVG" /></a>
 
-<br><br><br>
+<br><br>
 <!-- -------------------------------- -->
+
+<br>
+<img src="./line.png" alt="line"/>
+<br>
 
 <table style="border: 1px solid red">
    <tr>
@@ -19,8 +23,9 @@
    </tr>
 </table>
 
-<!-- -------------------------------- -->
-<br><br><br>
+<br>
+<img src="./line.png" alt="line"/>
+<br>
 
 <table style="border: none;">
    <tr style="border: none;">
