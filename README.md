@@ -22,7 +22,7 @@
 </table>
 
 <!-- -------------------------------- -->
-<br><img src="./line.png" alt="line"/><br>
+<img src="./line.png" alt="line"/><br>
 <!-- -------------------------------- -->
 
 <h2 align="left">🛠️ Main Skill Set:</h2>
@@ -41,7 +41,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=5E5C5C)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
 
-<br><br>
+<br>
 
 <h2 align="left">🎒 Currently studying:</h2>
 
