@@ -74,6 +74,7 @@
 
 <br>
 <img src="./line.png" alt="line"/>
+<br>
 
 <h2 align="left">🧑🏼‍💻 Recent Projects</h2>
 
@@ -85,7 +86,7 @@
   <li>Python - Game Break Bricks (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Game%20Break%20Bricks">Acessar</a>)</li>
 </ul>
 
-<br><br>
+<br><br><br>
 
 <!-- 🧑🏻‍💻 -->
 
