@@ -74,7 +74,6 @@
 
 <br>
 <img src="./line.png" alt="line"/>
-<br>
 
 <h2 align="left">🧑🏼‍💻 Recent Projects</h2>
 
