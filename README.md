@@ -50,6 +50,10 @@
 
 <br><br>
 
+<!-- -------------------------------- -->
+<br><img src="./line.png" alt="line"/><br>
+<!-- -------------------------------- -->
+
 <table style="border: none;">
    <tr style="border: none;">
       <td style="padding: 0 10px; border: none;">
