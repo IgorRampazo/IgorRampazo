@@ -25,6 +25,8 @@
 <img src="./line.png" alt="line"/><br>
 <!-- -------------------------------- -->
 
+<br>
+
 <h2 align="left">🛠️ Main Skill Set:</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
