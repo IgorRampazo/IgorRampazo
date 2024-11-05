@@ -11,15 +11,31 @@
 
 <table style="border: 1px solid red">
    <tr>
-      <td  width="300px">
+      <td  width="1000px">
          <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat"/>
-      </td>
-      <td  width="700px">
-         <h1>Sobre mim</h1>
-         Sou um desenvolvedor com experiência em desenvolvimento web, análise de dados e automação, tendo iniciado minha carreira como estagiário em desenvolvimento web. Atualmente, estou cursando Ciência da Computação, e busco expandir constantemente meu conhecimento e aplicar tecnologias de ponta, com foco em soluções práticas e inovadoras.
       </td>
    </tr>
 </table>
+
+```go
+package main
+
+type Me struct{
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+  SweetHeart string
+}
+
+func main() {
+  me := &Me{
+    Student: "Computer Science",
+    Code: "PHP, Javascript and Python",
+    BestAndFavoriteSkill: "Web Developer :D"
+  }
+  _ = me
+}
+```
 
 <!-- -------------------------------- -->
 <img src="./line.png" alt="line"/><br>
