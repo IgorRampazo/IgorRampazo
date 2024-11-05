@@ -69,10 +69,6 @@ func main() {
   <li>Python - Game Break Bricks (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Game%20Break%20Bricks">Acessar</a>)</li>
 </ul>
 
-<!-- -------------------------------- -->
-<img src="./line.png" alt="line"/><br>
-<!-- -------------------------------- -->
-
 <br>
 
 <h2 align="left">🛠️ Main Skill Set:</h2>
