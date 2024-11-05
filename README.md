@@ -17,15 +17,13 @@ type Me struct{
   Code string
   Job string
   BestAndFavoriteSkill string
-  SweetHeart string
 }
 
 func main() {
   me := &Me{
-    Job: "Security Researcher and RedTeam",
-    SweetHeart: "01",
-    Code: "PHP and Go and Python and Java and Rust",
-    BestAndFavoriteSkill: "Web Hacking :D"
+    Job: "Web Developer",
+    Code: "JavaScript, PHP and Python",
+    BestAndFavoriteSkill: "Data analysis :D"
   }
   _ = me
 }
