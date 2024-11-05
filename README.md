@@ -12,7 +12,7 @@
 <table style="border: 1px solid red; width: 100%;">
    <tr>
       <td style="text-align: center;">
-         <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat" style="height: 150px;"/>
+         <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat" style="height: 300px;"/>
       </td>
    </tr>
    <tr>
