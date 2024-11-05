@@ -9,32 +9,34 @@
 <br><img src="./line.png" alt="line"/><br>
 <!-- -------------------------------- -->
 
-<table style="border: 1px solid red">
+<table style="border: 1px solid red;">
    <tr>
-      <td  width="1000px">
+      <td style="width: 100%;">
          <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat"/>
       </td>
    </tr>
    <tr>
-      ```go
+      <td>
+         <pre><code>
 package main
 
-type Me struct{
-  Code string
-  Job string
+type Me struct {
+  Code               string
+  Job                string
   BestAndFavoriteSkill string
-  SweetHeart string
+  SweetHeart         string
 }
 
 func main() {
   me := &Me{
-    Student: "Computer Science",
-    Code: "PHP, Javascript and Python",
-    BestAndFavoriteSkill: "Web Developer :D"
+    Code:                "PHP, Javascript, and Python",
+    Job:                 "Computer Science Student",
+    BestAndFavoriteSkill: "Web Developer :D",
   }
   _ = me
 }
-```
+         </code></pre>
+      </td>
    </tr>
 </table>
 
