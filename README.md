@@ -9,37 +9,31 @@
 <br><img src="./line.png" alt="line"/><br>
 <!-- -------------------------------- -->
 
-<table style="border: 1px solid red; width: 100%;">
-   <tr>
-      <td style="text-align: center;">
-         <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat" style="height: 250px;"/>
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <!-- Bloco de código com Prism.js -->
-         <pre><code class="language-go">
+<br>
+<div align="center">
+   <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat" style="height: 250px;">
+</div>
+
+```go
 package main
 
-type Me struct {
-  Code               string
-  Job                string
+type Me struct{
+  Code string
+  Job string
   BestAndFavoriteSkill string
-  SweetHeart         string
+  SweetHeart string
 }
 
 func main() {
   me := &Me{
-    Code:                "PHP, Javascript, and Python",
-    Job:                 "Computer Science Student",
-    BestAndFavoriteSkill: "Web Developer :D",
+    Job: "Security Researcher and RedTeam",
+    SweetHeart: "01",
+    Code: "PHP and Go and Python and Java and Rust",
+    BestAndFavoriteSkill: "Web Hacking :D"
   }
   _ = me
 }
-         </code></pre>
-      </td>
-   </tr>
-</table>
+```
 
 <!-- -------------------------------- -->
 <img src="./line.png" alt="line"/><br>
