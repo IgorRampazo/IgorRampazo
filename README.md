@@ -9,15 +9,16 @@
 <br><img src="./line.png" alt="line"/><br>
 <!-- -------------------------------- -->
 
-<table style="border: 1px solid red;">
+<table style="border: 1px solid red; width: 100%;">
    <tr>
-      <td style="width: 100%;">
-         <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat"/>
+      <td style="text-align: center;">
+         <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat" style="height: 50px;"/>
       </td>
    </tr>
    <tr>
       <td>
-         <pre><code>
+         <!-- Bloco de código com Prism.js -->
+         <pre><code class="language-go">
 package main
 
 type Me struct {
