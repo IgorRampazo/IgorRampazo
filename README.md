@@ -15,9 +15,8 @@
          <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat"/>
       </td>
    </tr>
-</table>
-
-```go
+   <tr>
+      ```go
 package main
 
 type Me struct{
@@ -36,6 +35,8 @@ func main() {
   _ = me
 }
 ```
+   </tr>
+</table>
 
 <!-- -------------------------------- -->
 <img src="./line.png" alt="line"/><br>
