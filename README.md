@@ -32,35 +32,6 @@ func main() {
 ```
 
 <!-- -------------------------------- -->
-<img src="./line.png" alt="line"/><br>
-<!-- -------------------------------- -->
-
-<br>
-
-<h2 align="left">🛠️ Main Skill Set:</h2>
-
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699)
-![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=5E5C5C)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
-
-<br>
-
-<h2 align="left">🎒 Currently studying:</h2>
-
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3670A0)
-
-<!-- -------------------------------- -->
 <br><img src="./line.png" alt="line"/><br>
 <!-- -------------------------------- -->
 
@@ -97,6 +68,35 @@ func main() {
   <li>Python - Flappy Bird (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Flappy%20Bird">Acessar</a>)</li>
   <li>Python - Game Break Bricks (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Game%20Break%20Bricks">Acessar</a>)</li>
 </ul>
+
+<!-- -------------------------------- -->
+<img src="./line.png" alt="line"/><br>
+<!-- -------------------------------- -->
+
+<br>
+
+<h2 align="left">🛠️ Main Skill Set:</h2>
+
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699)
+![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=5E5C5C)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
+
+<br>
+
+<h2 align="left">🎒 Currently studying:</h2>
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3670A0)
 
 <br><br><br>
 
