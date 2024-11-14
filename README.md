@@ -82,7 +82,6 @@ func main() {
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=5E5C5C)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
 
 <br>
