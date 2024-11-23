@@ -11,22 +11,27 @@
 </div>
 
 ```go
-package main
-
-type Me struct{
-  Code string
-  Job string
-  BestAndFavoriteSkill string
-}
-
-func main() {
-  me := &Me{
-    Job: "Web Developer",
-    Code: "JavaScript, PHP and Python",
-    BestAndFavoriteSkill: "Data analysis :D"
+class Me {
+  constructor(name, age, job, degree, skills, favoriteSkill) {
+    this.name = name;
+    this.age = age;
+    this.job = job;
+    this.degree = degree;
+    this.skills = skills;
+    this.favoriteSkill = favoriteSkill;
   }
-  _ = me
 }
+
+const me = new Me(
+  "Igor Rampazo",
+  18,
+  "Web Developer",
+  "Computer Science Student",
+  "JavaScript, PHP, Python, Data Analysis",
+  "Data analysis :D"
+);
+
+console.log(me);
 ```
 
 <!-- -------------------------------- -->
