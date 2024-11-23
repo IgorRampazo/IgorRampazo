@@ -27,7 +27,7 @@ const me = new Me(
   18,
   "Web Developer",
   "Computer Science Student",
-  "JavaScript, PHP, Python, Data Analysis",
+  "Html, Css, JavaScript, PHP, Python, MySql",
   "Data analysis :D"
 );
 
