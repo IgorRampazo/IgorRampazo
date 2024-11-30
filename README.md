@@ -12,13 +12,12 @@
 
 ```go
 class Me {
-  constructor(name, age, job, degree, skills, favoriteSkill) {
+  constructor(name, age, job, degree, skills) {
     this.name = name;
     this.age = age;
     this.job = job;
     this.degree = degree;
     this.skills = skills;
-    this.favoriteSkill = favoriteSkill;
   }
 }
 
@@ -27,8 +26,7 @@ const me = new Me(
   18,
   "Web Developer",
   "Computer Science Student",
-  "Html, Css, JavaScript, PHP, Python, MySql",
-  "Data analysis :D"
+  "Html, Css, JavaScript, PHP, Python, MySql"
 );
 
 console.log(me);
