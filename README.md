@@ -94,7 +94,7 @@ console.log(me);
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3670A0)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br><br><br>
 
