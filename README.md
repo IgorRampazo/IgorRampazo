@@ -86,6 +86,7 @@ console.log(me);
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
+![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,jquery,bootstrap,php,mysql,github,figma,c,python,git&theme=dark)](https://skillicons.dev) -->
 
 <br>
