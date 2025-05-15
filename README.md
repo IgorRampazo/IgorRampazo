@@ -87,7 +87,7 @@ console.log(me);
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
 ![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=3ECF8E)
-<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,jquery,bootstrap,php,mysql,github,figma,c,python,git&theme=dark)](https://skillicons.dev) -->
+![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 
 <br>
 
