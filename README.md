@@ -10,7 +10,7 @@
    <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat" style="height: 250px;">
 </div>
 
-```assembly
+```js
 class Me {
   constructor(name, age, job, degree, skills) {
     this.name = name;
@@ -32,7 +32,7 @@ const me = new Me(
 console.log(me);
 ```
 
-```cpp
+```assembly
 
 @@
 *trth
