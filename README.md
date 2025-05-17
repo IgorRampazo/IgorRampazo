@@ -32,7 +32,7 @@ const me = new Me(
 console.log(me);
 ```
 
-```lua
+```assembly/js
 
 @@
 *trth
