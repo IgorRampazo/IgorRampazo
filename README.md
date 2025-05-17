@@ -32,7 +32,7 @@ const me = new Me(
 console.log(me);
 ```
 
-```rust
+```lua
 
 @@
 *trth
