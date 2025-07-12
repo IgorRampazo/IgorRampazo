@@ -116,7 +116,7 @@ console.log(me);
 <h2 align="left">🎒 Currently studying:</h2>
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
-![C#](https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=c&logoColor=00599C)
+![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br><br><br>
