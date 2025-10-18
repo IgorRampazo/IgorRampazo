@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ff3083&section=header"/>
 
 <!-- Efeito de digito -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+19+years+old;I+am+a+computer+science+student;I'm+a+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+19+years+old;I+am+a+computer+science+student;I'm+a+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <br>
 
