@@ -110,6 +110,7 @@ console.log(me);
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
 ![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=3ECF8E)
 ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>
 
@@ -117,7 +118,6 @@ console.log(me);
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
 ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br><br><br>
 
