@@ -101,7 +101,7 @@ console.log(me);
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Babel](https://img.shields.io/badge/Babel-000000?style=for-the-badge&logo=babel&logoColor=F9DC3E)
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-000000.svg?style=for-the-badge&logo=javafx&logoColor=%23FF0000)
+![JavaFX](https://img.shields.io/badge/javafx-000000.svg?style=for-the-badge&logo=javafx&logoColor=23FF00)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
