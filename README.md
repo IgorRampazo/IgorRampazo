@@ -83,16 +83,6 @@ console.log(me);
 <img src="./line.png" alt="line"/><br>
 <!-- -------------------------------- -->
 
-<h2 align="left">🧑🏼‍💻 Recent Projects</h2>
-
-<ul>
-  <li>calculator (<a target="_blank" href="https://github.com/IgorRampazo/Web-Projects/tree/main/calculator">Acessar</a>)</li>
-  <li>(Insights) - Case - Cancelamento de Cartão de Crédito (<a target="_blank" href="https://github.com/IgorRampazo/Data-Analytics-Projects/tree/main/(Insights)%20-%20Case%20-%20Cancelamento%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito">Acessar</a>)</li>
-  <li>Python Automation - Relatório Semanal Consolidado de Vendas (<a target="_blank" href="https://github.com/IgorRampazo/Automations/tree/main/Python%20Automation%20-%20Relat%C3%B3rio%20Semanal%20Consolidado%20de%20Vendas">Acessar</a>)</li>
-  <li>Python - Flappy Bird (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Flappy%20Bird">Acessar</a>)</li>
-  <li>Python - Game Break Bricks (<a target="_blank" href="https://github.com/IgorRampazo/Games/tree/main/Python%20-%20Game%20Break%20Bricks">Acessar</a>)</li>
-</ul>
-
 <br>
 
 <h2 align="left">🛠️ Main Skill Set:</h2>
