@@ -1,139 +1,131 @@
-<!-- Cabeçalho -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ff3083&section=header"/>
-
-<!-- Efeito de digito -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+19+years+old;I+am+a+computer+science+student;I'm+a+Full+Stack+Developer" alt="Typing SVG" /></a>
+<!-- -------------------------------- -->
+<br><img src="https://igorrampazo.github.io/MyReadMe/assets/images/div.png" alt="line"/><br>
+<!-- -------------------------------- -->
 
 <br>
 
-<div align="center">
-   <img src="https://octodex.github.com/images/topguntocat.png" alt="imagem octocat" style="height: 250px;">
-</div>
-
-```js
-class Me {
-  constructor(name, age, job, degree, skills) {
-    this.name = name;
-    this.age = age;
-    this.job = job;
-    this.degree = degree;
-    this.skills = skills;
-  }
-}
-
-const me = new Me(
-  "Igor Rampazo",
-  18,
-  "Web Developer",
-  "Computer Science Student",
-  "Html, Css, JavaScript, PHP, Python, MySql"
-);
-
-console.log(me);
-```
-
-```assembly
-
-         ⠁⠀⠀⠀⠀⠀⠀⣼1111111111111111111111111111111111111111111111⡜⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸111111111111111111
-         ⠀⠀⠀⠀⠀⠀⣼111111111111111111111111111111111111111111111111⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼111111111111111111
-         ⠀⠀⠀⣀⣀⣴111111111111111111111111111111111111111111111111111⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣄⣴111111111111111111111111
-         ⠀⠀⠀⠀⠉⠉111111111111111111111111111⢿11⡏⠛⢿11⣿⢻⡝111111111111111111⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠴⣵⣄1111111111
-         ⠀⠀⠀⠀⠀⠀⠙⢼111111111111111111⡟⠈⠁⠀⠀⠘⢻⣽111111111111111111⠀⠀⠀⠀⢀⠆⠠⠘⠀⠛⠀⠀⠀⣻1111111111111
-         ⠂⠀⠀⠀⠀⠀⠀⢸111111111111⡿⡽ ⠀⠀⠹111⡿⠉⠛⠿⢿11⠀⢰⡂⠀⢀⣷⡿⣄⡀⡸⠧⠄⠂⠀⢿1111111111111
-         ⠀⠀⠀⠀⠀⠀⣠⠿⠋⠙⢯111111⡷⠀⠀⠀⠀⠀⠀⠀⠀⣹⠁⠀⠀⠀⠀⠀⠘⣧⢘⡏⣰111111⢿⣯⣽⠿⢶⣼1111111111111
-         ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⢀⠸⠁⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠘⣿⣾1111111⣄⣴⢸⣷111111111111111111
-         ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⠷⢄⢄⠀⡠⠔⠀⠀⠀⢀⣼⡀⠀⠀⠀⠀⠀⡀⣀⣘1111111⣯⣯⣸⣾111111111111111111111
-         ⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⡀⠻⡯⡀⢀⠀⠀⣠⣾111⣇⠀⢀⣠⣶⣾1111111111111⣽⢻⢿111111111111111111111111111
-         ⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣽⠇⠈⢗⡌⣦⡾⢟⢿111111⣴⣽1111111111111111111111⡵⣿⣯111111111111111111111111111
-         ⡀⠀⠀⠀⢰⣦⡄⠀⠀⠀⠀⠀⢑⡲⠁⣀⢠⡌⡚⠋⠀⢸⣷1111111111111111111111111111111111⣿⣹1111111111111111111111111111111
-         ⠁⠀⠀⠀⠀⠉⠀⠀⠀⠐⠒⠾⣧⣶⣰⣧⣿⣝⡃⢆⣧⡀⣩⣷1111111111111111111111111111111⣿111111111111111111111111111111111
-         ▄▀█ █▀█ █ █▀ █▀▀ ⢸⣷⢉⣴111111111111111111111111111111111111111111111111111111111111111111⢸⣷
-         █▀█ █▀▄ █ ▄█ ██ ▄ ⣠⣼ ⣿111111111111111111111111111111111111111111111111111111111111111111⢸⣷111
-         ⠀⠀⠀⠀⠀⢠⣶⣿⣦⣞⠉⢀⣿⡾⣕⠀⠉⣠⣼1111111111111111111111111111111111111111111111111111111111111111111111111111111111
-         ⠀⠀⠀⠀⠀⢸⣿⡿⠇⠉⣈⣼⣿⣷⠝⣠⣾1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-         ⠀⠀⠀⢠⣾⢝⠟⠃⠀⠞⣹⣿⣿⣷⣾11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-
-```
-
-<!-- --------------------------------  -->
-<br><img src="./line.png" alt="line"/><br>
-<!-- -------------------------------- -->
-
-<table style="border: none;">
-   <tr style="border: none;">
-      <td style="padding: 0 10px; border: none;">
-         <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&show_icons=true&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's GitHub stats" style="border: 1px solid #ff3083; display: block;">
-         <!-- <img width="538px" src="https://github-readme-stats.vercel.app/api?username=IgorRampazo&rank_icon=github&theme=radical&card_width=500px&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083&include_all_commits=true&count_private=true" alt="Anurag's GitHub stats" style="border: 1px solid #ff3083; display: block;"> -->
-      </td>
-      <td style="padding: 0 10px;">
-         <img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRampazo&layout=compact&theme=radical&langs_count=10&bg_color=ff308305&border_color=ff3083&text_color=cccccc&title_color=ff3083" alt="Igor Rampazo's Top Languages" style="border: 1px solid #ff3083; display: block;">
+<table align="center" style="width: 100%; border: none;">
+   <tr>
+      <td style="border: none; padding: 0 10px; width: 66%;" align="center">
+         <!-- Top Languages Card (2/3 width) -->
+         <img src="https://pixel-profile.vercel.app/api/github-stats?username=Igor-Rampazo&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF" alt="GitHub Pixel Profile Stats Card" />
       </td>
    </tr>
 </table>
-
 <table>
    <tr>
-   <td style="padding: 0 10px;">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=FF308305&border=FF3083&fire=FF3083&dates=CCCCCC&currStreakLabel=CCCCCC&ring=FF308383" alt="GitHub Streak" style="border: 1px solid #ff3083; display: block; background-color: #ff308305; font-size: 30rem;">
-   </td>
+      <td style="padding: 0 10px;">
+         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Igor-Rampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=9791c405&border=9791c4&fire=9791c4&dates=CCCCCC&currStreakLabel=CCCCCC&ring=9791c483" alt="GitHub Streak" style="border: 1px solid #9791c4; display: block; background-color: #9791c405;">
+      </td>
    </tr>
 </table>
 
 <!-- -------------------------------- -->
-<img src="./line.png" alt="line"/><br>
+<br><img src="https://igorrampazo.github.io/MyReadMe/assets/images/div.png" alt="line"/><br>
 <!-- -------------------------------- -->
 
 <br>
 
-<h2 align="left">🛠️ Main Skill Set:</h2>
+<!-- __________________________ -->
+<!-- ********** Skills ******** -->
 
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=3ECF8E)
-![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Babel](https://img.shields.io/badge/Babel-000000?style=for-the-badge&logo=babel&logoColor=F9DC3E)
-![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-000000.svg?style=for-the-badge&logo=javafx&logoColor=23FF00)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
-![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /> <br> HTML5 </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /> <br> CSS3 </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" /> <br> JavaScript </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" /> <br> TypeScript </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" /> <br> jQuery </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" /> <br> Bootstrap </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" /> <br> React </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" /> <br> Babel </td>
+  </tr>
 
-<br><br><br>
+  <tr>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="55" height="55" /> <br> Webpack </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /> <br> Node.js </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" /> <br> REST API </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" /> <br> Python </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=php" width="48" height="48" /> <br> PHP </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" /> <br> MySQL </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /> <br> PostgreSQL </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /> <br> MongoDB </td>
+  </tr>
 
-<!-- 🧑🏻‍💻 -->
+  <tr>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" /> <br> SQLite </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="55" height="55" /> <br> Sass </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" /> <br> Java </td>
+    <td align="center" width="110"> <img src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2" width="55" height="55" /> <br> JavaFX </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" /> <br> C++ </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55" height="55" /> <br> C# </td>
+    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" /> <br> Nginx </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /> <br> Figma </td>
+  </tr>
 
-<!-- Redes -->
-<div align="center"> 
-  <a href="https://instagram.com/igorrampz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="igorrampazo7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-fernando-805a752ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-  <a href="https://igorrampazo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
-</div>
-<br>
+  <tr>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /> <br>GitHub </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> <br>Git </td>
+    <td align="center" width="110"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="48" height="48" style="border-radius: 15px;"/> <br>Jupyter </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" /> <br>C </td>
+  </tr>
+</table>
 
-<br>
-
-<!-- Gráfico de Atividade -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorRampazo&bg_color=00000000&color=ff3083&line=ff3083&point=cccccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
-<!-- Contador de Visitantes -->
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/IgorRampazo&s=38&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
-  <img align="center-right" alt="pic" height="180" style="border-radius:100px;" src="https://i.pinimg.com/originals/b9/44/e0/b944e02ad1bdc4607b37888869b4e11d.gif?width=676&height=676&border-radius=100px">
-</div>
+<!-- ______________________________ -->
+<!-- ********** Languages ********* -->
+
+<img
+   width="100%"
+   src="https://igorrampazo.github.io/MyReadMe/assets/lang-badge.svg"
+/>
+
 <br><br>
 
-<!-- Rodapé -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ff3083&section=footer"/>
+<!-- _________________________________________ -->
+<!-- ********** Gráfico de Atividade ********* -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Igor-Rampazo&bg_color=00000000&color=9791c4&line=9791c4&point=9791c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br><br>
+
+
+<!-- ___________________________________________ -->
+<!-- ********** Contador de Visitantes ********* -->
+
+<div align="center" style="position: relative; display: inline-block;">
+   <img src="https://count.getloli.com/get/@Igor-Rampazo?theme=sketch-1"/>
+</div>
+
+
+<!-- _______________________________ -->
+<!-- ********** Ilustração ********* -->
+
+<br><br>
+
+<div style="display: flex; flex-direction: column;" align="center">
+   ╭──────────────────────────── · · <> · · ────────────────────────────╮
+      
+   <img src="https://igorrampazo.github.io/MyReadMe/assets/images/bye-a.gif" alt="Bye Kirito" style="height: 200px; display: block; align-items: center;"/>
+      
+   ╰──────────────────────────── · · <> · · ────────────────────────────╯
+</div>
+
+<br><br>
+
+<!-- ______________________________________________ -->
+<!-- ********** Pacman Contribution Graph ********* -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Igor-Rampazo/Igor-Rampazo/output/pacman-contribution-graph-dark.svg"
+    alt="Pacman Contribution Graph (Dark)"
+    width="85%"
+  />
+</p>
+
+<!-- ___________________________ -->
+<!-- ********** Rodapé ********* -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a39dd1&section=footer"/>
