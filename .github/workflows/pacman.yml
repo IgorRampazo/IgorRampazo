@@ -1,0 +1,27 @@
+name: generate pacman graph (dark)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Pacman Contribution Graph (Dark)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Igor-Rampazo
+          theme: github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
