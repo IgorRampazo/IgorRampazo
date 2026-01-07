@@ -8,14 +8,14 @@
    <tr>
       <td style="border: none; padding: 0 10px; width: 66%;" align="center">
          <!-- Top Languages Card (2/3 width) -->
-         <img src="https://pixel-profile.vercel.app/api/github-stats?username=Igor-Rampazo&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF" alt="GitHub Pixel Profile Stats Card" />
+         <img src="https://pixel-profile.vercel.app/api/github-stats?username=IgorRampazo&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF" alt="GitHub Pixel Profile Stats Card" />
       </td>
    </tr>
 </table>
 <table>
    <tr>
       <td style="padding: 0 10px;">
-         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Igor-Rampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=9791c405&border=9791c4&fire=9791c4&dates=CCCCCC&currStreakLabel=CCCCCC&ring=9791c483" alt="GitHub Streak" style="border: 1px solid #9791c4; display: block; background-color: #9791c405;">
+         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=9791c405&border=9791c4&fire=9791c4&dates=CCCCCC&currStreakLabel=CCCCCC&ring=9791c483" alt="GitHub Streak" style="border: 1px solid #9791c4; display: block; background-color: #9791c405;">
       </td>
    </tr>
 </table>
