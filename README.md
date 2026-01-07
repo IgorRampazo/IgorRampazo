@@ -203,7 +203,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/IgorRampazo/Igor-Rampazo/output/pacman-contribution-graph-dark.svg"
+    src="https://raw.githubusercontent.com/IgorRampazo/IgorRampazo/output/pacman-contribution-graph-dark.svg"
     alt="Pacman Contribution Graph (Dark)"
     width="85%"
   />
