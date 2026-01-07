@@ -1,3 +1,87 @@
+<!--
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║      ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ ____      ║
+║     ||I |||g |||o |||r |||       |||R |||a |||m |||p |||a |||z |||o ||     ║
+║     ||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__|||__||     ║
+║     |/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|     ║           
+║                                                                            ║
+║    ┌──────────────────────────────────────────────────────────────────┐    ║
+║    │  ORIGINAL DESIGN BY: Igor Fernando Melo Rampazo (@Igor-Rampazo)  │    ║
+║    │  GitHub: https://github.com/Igor-Rampazo                         │    ║
+║    │  Email: igorrampazo.dev@gmail.com                                │    ║ 
+║    └──────────────────────────────────────────────────────────────────┘    ║
+║                                                                            ║
+║    If you are accessing this source code:                                  ║
+║      • Proper attribution is required                                      ║
+║      • Unauthorized copying is discouraged                                 ║
+║      • Create your own implementation                                      ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+-->
+
+
+<!-- ______________________________ -->
+<!-- ********** Cabeçalho ********* -->
+
+<img
+   width="100%"
+   src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a39dd1&section=header"
+/>
+
+
+<!-- ___________________________________ -->
+<!-- ********** Typing Effect ********** -->
+
+<a href="https://git.io/typing-svg">
+   <img
+      src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello+welcome;Hello+everyone,+my+name+is+Igor;I+am+20+years+old;I+am+a+computer+science+student;I'm+a+Full+Stack+Developer"
+      alt="Typing SVG"
+   />
+</a>
+
+<br>
+
+<!-- __________________________________ -->
+<!-- ********** Banner Image ********** -->
+
+<div align="center" style="display: flex; flex-direction: column;">
+   ╭─────────────────── · · <> · · ───────────────────╮
+
+   <img src="https://igorrampazo.github.io/MyReadMe/assets/images/study-sao.jpg" alt="imagem octocat" style="height: 230px; display: block; margin: 0 auto;" />
+
+   ╰─────────────────── · · <> · · ───────────────────╯
+</div>
+
+<br><br>
+
+<!-- ______________________________ -->
+<!-- ********** About (JS) ******** -->
+
+```js
+   class Me
+   {
+      constructor(name, age, job, degree, skills)
+      {
+         this.name = name;
+         this.age = age;
+         this.job = job;
+         this.degree = degree;
+         this.skills = skills;
+      }
+   }
+   
+   const me = new Me(
+      "Igor Rampazo",
+      20,
+      "Full Stack Developer",
+      "Computer Science Student",
+      "Html, Css, JavaScript, PHP, Python, MySql, React, Java, ..."
+   );
+   
+   console.log(me);
+```
+
 <!-- -------------------------------- -->
 <br><img src="https://igorrampazo.github.io/MyReadMe/assets/images/div.png" alt="line"/><br>
 <!-- -------------------------------- -->
@@ -8,14 +92,14 @@
    <tr>
       <td style="border: none; padding: 0 10px; width: 66%;" align="center">
          <!-- Top Languages Card (2/3 width) -->
-         <img src="https://pixel-profile.vercel.app/api/github-stats?username=IgorRampazo&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF" alt="GitHub Pixel Profile Stats Card" />
+         <img src="https://pixel-profile.vercel.app/api/github-stats?username=Igor-Rampazo&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF" alt="GitHub Pixel Profile Stats Card" />
       </td>
    </tr>
 </table>
 <table>
    <tr>
       <td style="padding: 0 10px;">
-         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=IgorRampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=9791c405&border=9791c4&fire=9791c4&dates=CCCCCC&currStreakLabel=CCCCCC&ring=9791c483" alt="GitHub Streak" style="border: 1px solid #9791c4; display: block; background-color: #9791c405;">
+         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Igor-Rampazo&theme=dark&locale=pt_BR&card_width=1000&card_height=280&background=9791c405&border=9791c4&fire=9791c4&dates=CCCCCC&currStreakLabel=CCCCCC&ring=9791c483" alt="GitHub Streak" style="border: 1px solid #9791c4; display: block; background-color: #9791c405;">
       </td>
    </tr>
 </table>
