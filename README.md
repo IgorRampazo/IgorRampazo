@@ -156,6 +156,7 @@
     <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> <br>Git </td>
     <td align="center" width="110"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="48" height="48" style="border-radius: 15px;"/> <br>Jupyter </td>
     <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" /> <br>C </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" /> <br>Unity </td>
   </tr>
 </table>
 
